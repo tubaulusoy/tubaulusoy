@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tuba-Ulusoy
 - 👀 I’m interested in Optimization, SCM,and ML
 - 🌱 I’m currently learning ML for optimization
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m looking to collaborate on ML for optimization
 - 📫 How to reach me tubaulusoy89@gmail.com
 
 <!---
