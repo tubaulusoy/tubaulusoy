@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tuba-Ulusoy
-- 👀 I’m interested in Optimization, SCM, and ML.
+- 👀 I’m interested in Optimization, Supply Chain Management, and ML.
 - 🌱 I’m currently learning ML for optimization.
 - 👀 I’m looking to collaborate on ML for optimization or Supply Chain Management topics.
 - 📫 How to reach me tubaulusoy89@gmail.com
